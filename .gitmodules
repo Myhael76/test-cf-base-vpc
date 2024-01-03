@@ -1,0 +1,8 @@
+[submodule ".devcontainer/cloudformation-01"]
+	path = .devcontainer/cloudformation-01
+	url = git@github.com:Myhael76/module-devc-cf.git
+	branch = main
+[submodule "modules/templates/base-vpc"]
+	path = modules/templates/base-vpc
+	url = git@github.com:Myhael76/cfn-template-base-vpc.git
+	branch = main
